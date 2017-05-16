@@ -1,6 +1,8 @@
 //POP_2014_12_16_projekt_1_AIR
 //Bloodshed Dev-C++ 4.9.9.2
 
+//Test gita
+
 #include <iostream>
 #include <cctype>
 using namespace std;
